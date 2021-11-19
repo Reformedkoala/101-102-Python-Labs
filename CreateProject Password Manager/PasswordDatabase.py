@@ -72,7 +72,7 @@ def pass_file_search(user_site):
             print(f'your password for the site {user_site} is {temp_password}')
         else:
             print(f'Your password was not found for the specified site.')
-            print(f'Please try again.
+            print(f'Please try again.')
             continue
 
 
