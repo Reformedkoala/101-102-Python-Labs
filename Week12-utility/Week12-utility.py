@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #   Garrett Thompson
 #   CSCI 102 – Section A
 #   Week 12 - Utility using Git and Incremental Development
@@ -94,5 +93,3 @@ def is_prime(number):
         else:
             continue
     return True
-=======
->>>>>>> parent of dd72af4 (Week 12 Lab)
