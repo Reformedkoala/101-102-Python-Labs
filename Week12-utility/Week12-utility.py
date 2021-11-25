@@ -69,7 +69,7 @@ def intersect(first_list, second_list):
             continue
     return intersect_list
 
-"""
+
 def not_in(first_list, second_list):
     not_in_list = []
     for i in first_list:
@@ -79,7 +79,7 @@ def not_in(first_list, second_list):
             continue
     return not_in_list
 
-
+"""
 def is_prime(number):
     if number == 1:
         return False
