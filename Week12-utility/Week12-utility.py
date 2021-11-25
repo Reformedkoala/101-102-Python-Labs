@@ -59,7 +59,7 @@ def union(first_list, second_list):
             continue
     return union_list
 
-"""
+
 def intersect(first_list, second_list):
     intersect_list = []
     for i in first_list:
@@ -69,7 +69,7 @@ def intersect(first_list, second_list):
             continue
     return intersect_list
 
-
+"""
 def not_in(first_list, second_list):
     not_in_list = []
     for i in first_list:
