@@ -32,7 +32,7 @@ def find_word_count(list_find, string_find):
                 j += 1
     return counter
 
-"""
+
 def score_finder(player_list, score_list, string_find):
     string_find_lower = string_find.lower()
     player_list_final = []
@@ -44,7 +44,7 @@ def score_finder(player_list, score_list, string_find):
     else:
         print(f'OUTPUT player not found')
 
-
+"""
 def union(first_list, second_list):
     union_list = []
     for i in first_list:
