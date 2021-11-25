@@ -44,7 +44,7 @@ def score_finder(player_list, score_list, string_find):
     else:
         print(f'OUTPUT player not found')
 
-"""
+
 def union(first_list, second_list):
     union_list = []
     for i in first_list:
@@ -59,7 +59,7 @@ def union(first_list, second_list):
             continue
     return union_list
 
-
+"""
 def intersect(first_list, second_list):
     intersect_list = []
     for i in first_list:
