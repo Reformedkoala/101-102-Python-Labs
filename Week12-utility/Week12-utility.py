@@ -14,7 +14,7 @@ def load_file(file_name):
             file_content.append(i.replace('\n', ''))
     return file_content
 
-
+"""
 def update_string(input_str, input_word, index):
     output_string = input_str[0:index] + input_word + input_str[index + 1:]
     print(f'OUTPUT {output_string}')
@@ -93,3 +93,4 @@ def is_prime(number):
         else:
             continue
     return True
+"""
