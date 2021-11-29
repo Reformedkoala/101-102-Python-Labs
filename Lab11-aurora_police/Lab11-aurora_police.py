@@ -21,7 +21,7 @@ def read_csv(file_name):
         print('OUTPUT File does not exist')
 
 
-rows = read_csv('nc_raleigh_2020_04_01.csv')
+rows = read_csv('nc_charlotte_2020_04_01.csv')
 
 
 def stops_by_race(rows, race):
@@ -57,3 +57,5 @@ def stops_by_sex(rows, sex):
             continue
     return sex_counter
 
+
+print(stops_by_race(rows, 'black'))

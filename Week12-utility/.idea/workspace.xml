@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2643f714-f170-4e94-ab25-efb79094e10d" name="Changes" comment="" />
+    <list default="true" id="2643f714-f170-4e94-ab25-efb79094e10d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lab11-aurora_police/Lab11-aurora_police.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab11-aurora_police/Lab11-aurora_police.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="TEXT" />
   </component>
   <component name="RunManager">
     <configuration name="Week12-utility" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
