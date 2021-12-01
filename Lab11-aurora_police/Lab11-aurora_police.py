@@ -57,5 +57,3 @@ def stops_by_sex(rows, sex):
             continue
     return sex_counter
 
-
-print(stops_by_race(rows, 'black'))
