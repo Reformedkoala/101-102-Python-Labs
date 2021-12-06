@@ -25,7 +25,11 @@ print('Input the message to encrypt and the desired shift.')
 message = input('MESSAGE> ')
 shift = int(input('SHIFT> '))
 print(f'Your message encrypted with shift {shift}:')
-shift %= 26
+if shift > 0:
+    shift %= 26
+else:
+    shift %= 26
+print(shift)
 encrypted_msg = ''
 for i in message:
     if i.isalpha() and i.isupper():
@@ -94,4 +98,4 @@ print('The original message was encrypted with a shift of:')
 if decrypt_shift == 0:
     print(f'OUTPUT {decrypt_shift}')
 else:
-    print(f'OUTPUT {26- decrypt_shift}')
+    print(f'OUTPUT {26 - decrypt_shift}')
